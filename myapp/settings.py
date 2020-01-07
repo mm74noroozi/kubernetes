@@ -25,7 +25,7 @@ SECRET_KEY = 'srd_w!e5wz(!&t*3-y-k6(_blfd$=6)q)%r73%k$1677i#(2_n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mm74noroozi.usw1.kubesail.io']
 
 
 # Application definition
